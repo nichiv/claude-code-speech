@@ -1,0 +1,12 @@
+# ログファイル
+*.log
+stop-hook-summary-debug.log
+
+# 要約ファイル
+last-summary.txt
+
+# macOS
+.DS_Store
+
+# 一時ファイル
+*.tmp
